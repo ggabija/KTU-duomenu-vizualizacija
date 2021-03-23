@@ -18,7 +18,7 @@ Išvados:
 
 Atsakymas:
 
-![atlyginimai](img/2uzduotis.png)
+![atlyginimai](img/2uzduotis_.png)
 
 Išvados:
 
@@ -27,7 +27,7 @@ Išvados:
 
 Atsakymas:
 
-![apdraustieji](img/3uzduotis.png)
+![apdraustieji](img/3uzduotis_.png)
 
 Išvados:
 
